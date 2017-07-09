@@ -1,0 +1,5 @@
+# Ignore build artifacts (usually binary).
+**/build/*
+# Except README file.
+!**/build/README.md
+
